@@ -11,14 +11,14 @@ An innovative application designed to streamline last-minute exam preparation an
 
 
 ## Getting Started
-**Download the Application:** Clone or download the repository from the link [here](https://github.com/1aryantyagi/Personal_tutor.git).
+**1- Download the Application:** Clone or download the repository from the link [here](https://github.com/1aryantyagi/Personal_tutor.git).
 
-**Install the Application:** Follow the installation instructions for your operating system.
+**2- Install the Application:** Follow the installation instructions for your operating system.
 
-**Launch the Application:** Open LastMinute.ai to begin your exam preparation journey.
+**3- Launch the Application:** Open LastMinute.ai to begin your exam preparation journey.
 
-**Upload Source Material:** Use the interface to upload your PDF files or YouTube video URLs for the application to analyze.
+**4- Upload Source Material:** Use the interface to upload your PDF files or YouTube video URLs for the application to analyze.
 
-**Interact with Your AI Assistant:** Start discussing your study materials with your personal AI assistant.
+**5- Interact with Your AI Assistant:** Start discussing your study materials with your personal AI assistant.
 
-**Use the Automatic Question Generation:** Generate questions based on your source material and select the difficulty level that suits your needs.
+**6- Use the Automatic Question Generation:** Generate questions based on your source material and select the difficulty level that suits your needs.
