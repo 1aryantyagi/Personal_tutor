@@ -23,4 +23,4 @@ An innovative application designed to streamline last-minute exam preparation an
 
 **6- Use the Automatic Question Generation:** Generate questions based on your source material and select the difficulty level that suits your needs. 
 
-![Working.jpg](../../Working.jpg)
+![Working.jpg](Working.jpg)
