@@ -21,6 +21,6 @@ An innovative application designed to streamline last-minute exam preparation an
 
 **5- Interact with Your AI Assistant:** Start discussing your study materials with your personal AI assistant.
 
-**6- Use the Automatic Question Generation:** Generate questions based on your source material and select the difficulty level that suits your needs. 
+**6- Use the Automatic Question Generation:** Generate questions based on your source material and select the difficulty level that suits your needs..
 
 ![Working.jpg](Working.jpg)
